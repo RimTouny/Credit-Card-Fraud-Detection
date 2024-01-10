@@ -1,6 +1,5 @@
-[Fraud Dataset.csv](https://github.com/RimTouny/Credit-Card-Fraud-Detection/files/13895296/Fraud.Dataset.csv)[Fraud Dataset.csv](https://github.com/RimTouny/Credit-Card-Fraud-Detection/files/13895294/Fraud.Dataset.csv)# Credit Card Fraud Detection
-Focused on advancing credit card fraud detection, this project employs machine learning algorithms, including neural networks and decision trees, to enhance fraud prevention in the banking sector using (Fraud Dataset) [Uploading Fraud Dataset.csv…][Fraud Dataset.csv](https://github.com/RimTouny/Credit-Card-Fraud-Detection/files/13895290/Fraud.Dataset.csv)
-It serves as the final project for a Data Science course at the University of Ottawa in 2023.
+# **Credit Card Fraud Detection**
+Focused on advancing credit card fraud detection, this project employs machine learning algorithms, including neural networks and decision trees, to enhance fraud prevention in the banking sector using [Fraud Dataset](https://github.com/RimTouny/Credit-Card-Fraud-Detection/files/13895290/Fraud.Dataset.csv). It serves as the final project for a Data Science course at the University of Ottawa in 2023.
 
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
@@ -77,12 +76,14 @@ Task is to classify whether a credit card transaction is fraudulent or not based
       + CNN Architecture: Developed a CNN model with convolutional and pooling layers, aiming to capture spatial features.
       + Model Compilation: Compiled the CNN model using the Adam optimizer and binary crossentropy loss.
       + Training: Trained the CNN model for 45 epochs on the training data.
+          ![merge_from_ofoct (1)](https://github.com/RimTouny/Credit-Card-Fraud-Detection/assets/48333870/878e96d6-98f2-48c6-935a-4c4e4c5f096d)
 
       - **Evaluation and Visualization**
           + Learning Curve: Plotted the learning curve to visualize the training and validation accuracy/loss over epochs.
           +  Max Pooling Enhancement: Modified the CNN architecture by introducing max pooling layers to improve efficiency.
+                 ![merge_from_ofoct](https://github.com/RimTouny/Credit-Card-Fraud-Detection/assets/48333870/277a7f98-d80c-4576-94f3-747b9fbb285a)
           +  Final Evaluation: Evaluated the final CNN model on the test set and visualized the confusion matrix.
           + Classification Report:** Displayed a comprehensive classification report with F1-score for each class.
 
-  
+
 
