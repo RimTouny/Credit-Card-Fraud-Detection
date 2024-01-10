@@ -1,6 +1,9 @@
 # **Credit Card Fraud Detection**
 Focused on advancing credit card fraud detection, this project employs machine learning algorithms, including neural networks and decision trees, to enhance fraud prevention in the banking sector using [Fraud Dataset](https://github.com/RimTouny/Credit-Card-Fraud-Detection/files/13895290/Fraud.Dataset.csv). It serves as the final project for a Data Science course at the University of Ottawa in 2023.
 
+![image](https://github.com/RimTouny/Credit-Card-Fraud-Detection/assets/48333870/063217a8-3ddc-405c-8e47-cca3d3b98696)
+
+
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
 - The uploaded code has been executed and tested successfully within the [Google Colab](https://colab.google/) environment.
